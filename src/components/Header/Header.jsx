@@ -25,7 +25,7 @@ export const Header = () => {
   return (
     <Container>
       <HeaderStyled>
-        <WrapperLogo to="/">CarRental</WrapperLogo>
+        <WrapperLogo to="/">rentcar-app</WrapperLogo>
         <Wrapper>
           <WrapperDes>
             <UserNav />

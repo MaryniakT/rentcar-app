@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rentcar-app/static/css/main.5876a691.css",
+    "main.js": "/rentcar-app/static/js/main.da2f0bc2.js",
+    "static/js/463.ec647991.chunk.js": "/rentcar-app/static/js/463.ec647991.chunk.js",
+    "static/js/101.93d74c0a.chunk.js": "/rentcar-app/static/js/101.93d74c0a.chunk.js",
+    "static/js/733.937cf8b7.chunk.js": "/rentcar-app/static/js/733.937cf8b7.chunk.js",
+    "static/js/355.871fcdb3.chunk.js": "/rentcar-app/static/js/355.871fcdb3.chunk.js",
+    "index.html": "/rentcar-app/index.html",
+    "main.5876a691.css.map": "/rentcar-app/static/css/main.5876a691.css.map",
+    "main.da2f0bc2.js.map": "/rentcar-app/static/js/main.da2f0bc2.js.map",
+    "463.ec647991.chunk.js.map": "/rentcar-app/static/js/463.ec647991.chunk.js.map",
+    "101.93d74c0a.chunk.js.map": "/rentcar-app/static/js/101.93d74c0a.chunk.js.map",
+    "733.937cf8b7.chunk.js.map": "/rentcar-app/static/js/733.937cf8b7.chunk.js.map",
+    "355.871fcdb3.chunk.js.map": "/rentcar-app/static/js/355.871fcdb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5876a691.css",
+    "static/js/main.da2f0bc2.js"
+  ]
+}
